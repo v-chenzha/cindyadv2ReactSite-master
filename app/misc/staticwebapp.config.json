@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/api/getList",
+      "allowedRoles": ["anonymous"]
+    }
+  ]
+}
